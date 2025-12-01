@@ -62,7 +62,7 @@ Set up the `base_dir` in the script to point to your data directory.
 Kebede, E. A., Mehta, P., Siebert, S., & Davis, K. F. (2025). Global Area Equipped for Irrigation in the 21st Century (2000– ) (v1.0) [Data set]. 
 Zenodo. https://doi.org/10.5281/zenodo.17766364
 
-Contact Information
+## Contact Information
 
 For further information, please contact:
 
