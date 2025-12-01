@@ -36,7 +36,7 @@ This Python version retains the pixel-by-pixel logic and structure of the origin
 
 ## Input Data Requirements
 
-- `GMIA` rasters for 2005
+- `GMIA` or 'Meier' rasters 
 - `Cropland` and `Pasture` rasters from HYDE (5 arc-min)
 - `Land availability` raster
 - `Shapefiles` for subnational units (with `unit_code`)
